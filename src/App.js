@@ -12,7 +12,7 @@ const App = () => {
       />  <br />
       {Data.filter(city=>city.name.toLowerCase().includes(search.toLowerCase())).map(city => 
       {
-        return <div style={{"border":"1px solid black" , "padding": "10px" , "margin": "10px" , "maxWidth": "50%"}}> 
+        return <div key={city.key} style={{"border":"1px solid black" , "padding": "10px" , "margin": "10px" , "maxWidth": "50%"}}> 
              {city.name}
             </div>
       }
