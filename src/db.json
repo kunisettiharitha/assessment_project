@@ -1,146 +1,146 @@
 [
     {
-    "key": "AN",
-    "name": "Andaman and Nicobar Islands"
+        "key": "AN",
+        "name": "Sydney"
     },
     {
-    "key": "AP",
-    "name": "Andhra Pradesh"
+        "key": "AP",
+        "name": "Melbourne"
     },
     {
-    "key": "AR",
-    "name": "Arunachal Pradesh"
+        "key": "AR",
+        "name": "Brisbane"
     },
     {
-    "key": "AS",
-    "name": "Assam"
+        "key": "AS",
+        "name": "Perth"
     },
     {
-    "key": "BR",
-    "name": "Bihar"
+        "key": "BR",
+        "name": "Adelaide"
     },
     {
-    "key": "CG",
-    "name": "Chandigarh"
+        "key": "CG",
+        "name": "Canberra"
     },
     {
-    "key": "CH",
-    "name": "Chhattisgarh"
+        "key": "CH",
+        "name": "Hobart"
     },
     {
-    "key": "DH",
-    "name": "Dadra and Nagar Haveli"
+        "key": "DH",
+        "name": "Darwin"
     },
     {
-    "key": "DD",
-    "name": "Daman and Diu"
+        "key": "DD",
+        "name": "Gold Coast"
     },
     {
-    "key": "DL",
-    "name": "Delhi"
+        "key": "DL",
+        "name": "Newcastle"
     },
     {
-    "key": "GA",
-    "name": "Goa"
+        "key": "GA",
+        "name": "Wollongong"
     },
     {
-    "key": "GJ",
-    "name": "Gujarat"
+        "key": "GJ",
+        "name": "Cairns"
     },
     {
-    "key": "HR",
-    "name": "Haryana"
+        "key": "HR",
+        "name": "Sunshine Coast"
     },
     {
-    "key": "HP",
-    "name": "Himachal Pradesh"
+        "key": "HP",
+        "name": "Geelong"
     },
     {
-    "key": "JK",
-    "name": "Jammu and Kashmir"
+        "key": "JK",
+        "name": "Launceston"
     },
     {
-    "key": "JH",
-    "name": "Jharkhand"
+        "key": "JH",
+        "name": "Toowoomba"
     },
     {
-    "key": "KA",
-    "name": "Karnataka"
+        "key": "KA",
+        "name": "Townsville"
     },
     {
-    "key": "KL",
-    "name": "Kerala"
+        "key": "KL",
+        "name": "Albury"
     },
     {
-    "key": "LD",
-    "name": "Lakshadweep"
+        "key": "LD",
+        "name": "Bendigo"
     },
     {
-    "key": "MP",
-    "name": "Madhya Pradesh"
+        "key": "MP",
+        "name": "Ballarat"
     },
     {
-    "key": "MH",
-    "name": "Maharashtra"
+        "key": "MH",
+        "name": "Mackay"
     },
     {
-    "key": "MN",
-    "name": "Manipur"
+        "key": "MN",
+        "name": "Gladstone"
     },
     {
-    "key": "ML",
-    "name": "Meghalaya"
+        "key": "ML",
+        "name": "Port Macquarie"
     },
     {
-    "key": "MZ",
-    "name": "Mizoram"
+        "key": "MZ",
+        "name": "Hervey Bay"
     },
     {
-    "key": "NL",
-    "name": "Nagaland"
+        "key": "NL",
+        "name": "Mildura"
     },
     {
-    "key": "OR",
-    "name": "Odisha"
+        "key": "OR",
+        "name": "Shepparton"
     },
     {
-    "key": "PY",
-    "name": "Puducherry"
+        "key": "PY",
+        "name": "Wagga Wagga"
     },
     {
-    "key": "PB",
-    "name": "Punjab"
+        "key": "PB",
+        "name": "Lismore"
     },
     {
-    "key": "RJ",
-    "name": "Rajasthan"
+        "key": "RJ",
+        "name": "Goulburn"
     },
     {
-    "key": "SK",
-    "name": "Sikkim"
+        "key": "SK",
+        "name": "Orange"
     },
     {
-    "key": "TN",
-    "name": "Tamil Nadu"
+        "key": "TN",
+        "name": "Tamworth"
     },
     {
-    "key": "TS",
-    "name": "Telangana"
+        "key": "TS",
+        "name": "Bairnsdale"
     },
     {
-    "key": "TR",
-    "name": "Tripura"
+        "key": "TR",
+        "name": "Kalgoorlie"
     },
     {
-    "key": "UK",
-    "name": "Uttar Pradesh"
+        "key": "UK",
+        "name": "Armidale"
     },
     {
-    "key": "UP",
-    "name": "Uttarakhand"
+        "key": "UP",
+        "name": "Coffs Harbour"
     },
     {
-    "key": "WB",
-    "name": "West Bengal"
+        "key": "WB",
+        "name": "Launceston"
     }
-    ]
+]
